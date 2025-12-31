@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- COMPLETE TERMINAL-STYLE README -->
+<div align="center">
+<div align="left" style="font-family: 'Courier New', monospace; color: #00ff00; background-color: #0a0a0a; padding: 25px; border-radius: 8px; line-height: 1.4; min-height: 600px;">
 
-<!--
-**newto-cyber/newto-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre style="color: #cccccc; background-color: transparent; border: none; margin: 0; padding: 0; font-family: 'Courier New', monospace;">
+<span style="color: #00ff00;">user@newto-cyber:~$</span> cat ascii_banner.txt
+  ___ ___                               _______                  _____.___.                          ._.
+ /   |   \_____  ______ ______ ___.__.  \      \   ______  _  __ \__  |   | ____ _____ _______  _____| |
+/    ~    \__  \ \____ \\____ <   |  |  /   |   \_/ __ \ \/ \/ /  /   |   |/ __ \\__  \\_  __ \/  ___/ |
+\    Y    // __ \|  |_> >  |_> >___  | /    |    \  ___/\     /   \____   \  ___/ / __ \|  | \/\___ \ \|
+ \___|_  /(____  /   __/|   __// ____| \____|__  /\___  >\/\_/    / ______|\___  >____  /__|  /____  >__
+       \/      \/|__|   |__|   \/              \/     \/          \/           \/     \/           \/ \/
 
-Here are some ideas to get you started:
+<span style="color: #00ff00;">user@newto-cyber:~$</span> whoami
+> IT student | full-stack dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="color: #00ff00;">user@newto-cyber:~$</span> cat skills.txt
+CORE STACK:
+  • React/Next.js      
+  • Java/Spring Boot   
+  • Nginx            
+
+LEARNING:
+  • Network Security
+  • Vulnerability Assessment
+  • Android mobile app development
+
+<span style="color: #00ff00;">user@newto-cyber:~$</span> <span style="animation: blink 1s infinite; color: #00ff00;">█</span>
+</pre>
+
+</div>
+</div>
+
+<style>
+   .prompt { 
+        color: #00ff00; 
+        font-weight: bold; 
+    }
+    .cmd { 
+        color: #ffffff; 
+    }
+    #cursor { 
+        color: #00ff00; 
+        font-weight: bold;
+        animation: blink 1s step-end infinite; 
+    }
+    @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+    }
+</style>
