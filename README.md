@@ -31,21 +31,3 @@ LEARNING:
 </div>
 </div>
 
-<style>
-   .prompt { 
-        color: #00ff00; 
-        font-weight: bold; 
-    }
-    .cmd { 
-        color: #ffffff; 
-    }
-    #cursor { 
-        color: #00ff00; 
-        font-weight: bold;
-        animation: blink 1s step-end infinite; 
-    }
-    @keyframes blink {
-        0%, 50% { opacity: 1; }
-        51%, 100% { opacity: 0; }
-    }
-</style>
