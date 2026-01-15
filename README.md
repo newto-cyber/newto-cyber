@@ -16,7 +16,7 @@
 
 <span style="color: #00ff00;">user@newto-cyber:~$</span> cat skills.txt
 CORE STACK:
-  • React/Next.js      
+  • React/Next.js/Express.js      
   • Java/Spring Boot   
   • Nginx            
 
